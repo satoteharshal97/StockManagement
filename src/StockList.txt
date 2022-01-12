@@ -1,0 +1,3 @@
+IDEA            12.80           50
+TATAMOTORS      507.25          25
+RELIANCE        2521.10         23
